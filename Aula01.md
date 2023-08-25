@@ -28,4 +28,4 @@ Acesse a pasta do projeto com `cd project-name` e rode o comando para iniciar o 
 
 Você pode acessar e ver a aplicação rodando em http://localhost:4200
 
-Vamos utilizar a biblioteca do Material Design para o Angular. Para adicionar essa lib ao projeto rode o comando `ng add @angular/material`
+Vamos utilizar a biblioteca do Material Design para o Angular. Para adicionar essa lib ao projeto rode o comando `ng add @angular/material`. Após isso voce deve dar uma boa navegada nos componentes do **Angular Material** atraves [deste link](https://material.angular.io/components/categories). Navegue um pouco para conhecer os componentes de listagem, tabelas, botões, etc
