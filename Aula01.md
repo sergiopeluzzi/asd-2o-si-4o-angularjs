@@ -27,3 +27,5 @@ Verifique se o angular foi instalado com o comando `ng version`
 Acesse a pasta do projeto com `cd project-name` e rode o comando para iniciar o Angular em modo de desenvolvimento com o comando `npm run start`.
 
 Você pode acessar e ver a aplicação rodando em http://localhost:4200
+
+Vamos utilizar a biblioteca do Material Design para o Angular. Para adicionar essa lib ao projeto rode o comando `ng add @angular/material`
